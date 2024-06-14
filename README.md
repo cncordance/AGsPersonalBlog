@@ -1,5 +1,10 @@
 Boilerplate taken from https://github.com/ixartz/Next-js-Blog-Boilerplate with edits to fit our specific business needs. 
 
+TO DO:
+1. Create an 'About'
+2. Create a logo/icon if you want: https://favicon.io/favicon-converter/
+3. Buy a domain
+
 Adding Posts:
 1. Create a Markdown file (.md)
 
