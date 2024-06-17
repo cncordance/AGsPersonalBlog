@@ -5,12 +5,13 @@ TO DO:
 3. Buy a domain
 Adding Posts:
 1. Create a Markdown file (.md)
+2. PLEASE ADD TAGS: AT THE BOTTOM OF EACH POST, I WILL EVENTUALLY FIGURE OUT HOW TO DO CATEGORIES
 ￼
-2. Add the file to _posts (the first subfolder in the project) following the naming convention 'year-month-date-my-first-post.md'
-3. Run a test in dev.
-4. Run a test in prod.
-5. Push the change to the Github Repo
-6. Publish the new version of the blog on Firebase
+3. Add the file to _posts (the first subfolder in the project) following the naming convention 'year-month-date-my-first-post.md'
+4. Run a test in dev.
+5. Run a test in prod.
+6. Push the change to the Github Repo
+7. Publish the new version of the blog on Firebase
 Elements of the code: This is a semi-static webpage made with the listed frameworks for lightweight, fast, and simple pages.
 
 Skeleton: App is instanciated in .../src/pages/_app.ts. This is also where we import the app styling css components. 
