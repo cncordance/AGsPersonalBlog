@@ -17,7 +17,20 @@ Adding Posts:
 6. Publish the new version of the blog on Firebase
 
 Elements of the code: 
-This is a semi-static webpage made with the listed frameworks for lightweight, fast, and simple pages. 
+This is a semi-static webpage made with the listed frameworks for lightweight, fast, and simple pages. T
+
+Skeleton: 
+App is instanciated in .../src/pages/_app.ts. This is also where we import the app styling css components. 
+Pagination happens in .../src/pages/[page].tsx AND .../src/pages/pagination/...
+There is no index.html, only a index.tsx
+Markdown is taken from the Content pages and transformed to HTML. 
+Full Layout is configured in .../src/templates/Main.tsx (Nav is globally declared in ...nagivation/Navbar.tsx)
+
+Getters 
+- GetPosts: ../src/utils/Content.ts (ordered date desc)
+
+Static
+- About is a static page that can be found .../src/pages/about.tsx
 
 Next.js:
 
