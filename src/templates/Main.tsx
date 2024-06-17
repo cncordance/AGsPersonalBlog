@@ -13,7 +13,6 @@ type IMainProps = {
 const Main = (props: IMainProps) => (
   <div className="antialiased w-full text-gray-700 px-3 md:px-0">
     {props.meta}
-
     <div className="max-w-screen-md mx-auto">
       <div className="border-b border-gray-300">
         <div className="pt-16 pb-8">
@@ -35,9 +34,7 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">
-                GitHub
-              </a>
+              <a href="https://www.google.com/">TBD</a>
             </li>
           </Navbar>
         </div>
@@ -50,7 +47,8 @@ const Main = (props: IMainProps) => (
         <span role="img" aria-label="Love">
           ♥
         </span>{' '}
-        by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+        from Concordance, with help from{' '}
+        <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
         {/*
          * PLEASE READ THIS SECTION
          * We'll really appreciate if you could have a link to our website
