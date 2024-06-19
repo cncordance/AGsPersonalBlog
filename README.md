@@ -15,8 +15,11 @@ Adding Posts:
 Elements of the code: This is a semi-static webpage made with the listed frameworks for lightweight, fast, and simple pages.
 
 Skeleton: App is instanciated in .../src/pages/_app.ts. This is also where we import the app styling css components. 
+
 Pagination happens in .../src/pages/[page].tsx AND .../src/pages/pagination/... 
+
 There is no index.html, only a index.tsx Markdown is taken from the Content pages and transformed to HTML. 
+
 Full Layout is configured in .../src/templates/Main.tsx (Nav is globally declared in ...nagivation/Navbar.tsx)
 
 Getters
