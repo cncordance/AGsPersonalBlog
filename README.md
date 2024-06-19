@@ -7,6 +7,7 @@ TO DO:
    
 Adding Posts:
 1. Create a Markdown file (.md)
+
    ![339912894-fe765923-328b-4e06-bd70-2f033b12c1d2](https://github.com/cncordance/AGsPersonalBlog/assets/168015665/71824ed2-01ed-410f-9326-fc544fbdd622)
 
 2. PLEASE ADD TAGS: AT THE BOTTOM OF EACH POST, I WILL EVENTUALLY FIGURE OUT HOW TO DO CATEGORIES
