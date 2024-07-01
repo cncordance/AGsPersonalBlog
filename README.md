@@ -22,7 +22,7 @@ Now you can take the files from the 'dist' folder and deploy on a hosting servci
 
    
 ## Adding Posts:
-_Look at the Akasha Testing things file for an example post with images_
+_Look at the Akasha Testing things file: _posts/2024-05-11-testing-post.md for an example post with images_
 1. Create a Markdown file (.md)
 
    ![339912894-fe765923-328b-4e06-bd70-2f033b12c1d2](https://github.com/cncordance/AGsPersonalBlog/assets/168015665/71824ed2-01ed-410f-9326-fc544fbdd622)
