@@ -1,11 +1,28 @@
-Boilerplate taken from https://github.com/ixartz/Next-js-Blog-Boilerplate with edits to fit our specific business needs.
-TO DO:
+( Boilerplate taken from https://github.com/ixartz/Next-js-Blog-Boilerplate with edits to fit our specific business needs. ) 
+## TO DO:
 1. Create an 'About'
 2. Create a logo/icon if you want: https://favicon.io/favicon-converter/
 3. Buy a domain
 
+## Interaction
+### Running the project locally in a test environment:
+1. execute ``` npm run dev ```
+2. go to http://localhost:3000 on your browser
+
+### Preview production version
+```
+npm run build
+npm run start
+```
+### Optimize production build 
+```npm run build-prod ```
+
+Now you can take the files from the 'dist' folder and deploy on a hosting servcie. 
+
+
    
-Adding Posts:
+## Adding Posts:
+_Look at the Akasha Testing things file for an example post with images_
 1. Create a Markdown file (.md)
 
    ![339912894-fe765923-328b-4e06-bd70-2f033b12c1d2](https://github.com/cncordance/AGsPersonalBlog/assets/168015665/71824ed2-01ed-410f-9326-fc544fbdd622)
@@ -32,7 +49,7 @@ Getters
 Static
 * About is a static page that can be found .../src/pages/about.tsx
 
-About the Frameworks used: 
+## About the Frameworks used: 
 
 Next.js:
 Next.js is a React framework for building server-side rendered (SSR) or statically generated (SSG) web applications. It is used to structure and organize your React application, handle routing, and optimize performance. Next.js uses React components, which are primarily written in JSX (a syntax extension for JavaScript that looks similar to HTML but is actually JavaScript). TypeScript:
